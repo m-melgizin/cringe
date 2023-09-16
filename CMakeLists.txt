@@ -14,6 +14,6 @@ endif()
 
 add_subdirectory(cringelib)
 
-# add_subdirectory(cringetool)
+add_subdirectory(cringetool)
 
 # add_subdirectory(cringelibxx)
